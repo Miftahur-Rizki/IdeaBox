@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Idea Box</string>
+    <string name="search_place_holder">Apa yang kamu cari</string>
+    <string name="add_a_new_note">Tambahkan catatan baru</string>
+    <string name="add_image">Tambahkan Gambar</string>
+    <string name="add_drawing">Buat coretan</string>
+    <string name="add_checkList">Tambah cek list</string>
+    <string name="back">Go Back</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="more_options">More Options</string>
+    <string name="pen">Pen</string>
+    <string name="erase">Erase</string>
+    <string name="change_color">Change Color</string>
+    <string name="Change_brush_Stroke">Change Brush Stroke Width</string>
+    <string name="brush">Brush</string>
+    <string name="select">Select</string>
+    <string name="dark_canvas">Dark Canvas</string>
+    <string name="clear_canvas">Clear_Canvas</string>
+    <string name="dotted_Stroke">Toggle Dotted Stroke</string>
+    <string name="checked_items">Checked Items</string>
+    <string name="add_new_list_item">Tambahkan list baru</string>
+    <string name="title">Judul</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="add_Image">Add Image</string>
+    <string name="take_photo">Ambil foto</string>
+    <string name="choose_image">Pilih dari album</string>
+    <string name="note_saved">Note Saved Successfully</string>
+    <string name="note_discarded">Empty Note Discarded</string>
+    <string name="confirm_deletion">Hapus catatan?</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+</resources>
